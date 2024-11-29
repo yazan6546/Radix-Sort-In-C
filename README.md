@@ -1,6 +1,6 @@
 # Radix Sort Program
 
-This repository contains a C program that performs radix sort on a list of strings. The program allows users to load strings from a file, sort them using radix sort, and perform various operations on the list of strings.
+This repository contains a C program that performs radix sort on a list of strings using linked lists. The program allows users to load strings from a file, sort them using radix sort, and perform various operations on the list of strings.
 
 ## Table of Contents
 
